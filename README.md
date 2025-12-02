@@ -3,7 +3,9 @@
 **`Digital Craftsman (Dev Front-End/Editor de Vídeos/Criador)`**
 
 <p align="justify">
-    Profissional com certificação em Desenvolvimento Front-End, com domínio em JavaScript, HTML5 e CSS3 (Flexbox) para a criação de interfaces web interativas e intuitivas. Consolidando conhecimentos em C/Python e MySQL na graduação de ciência da computação para otimização de algoritmos e gestão de dados. Paralelamente, no curso Full Stack do SENAI, desenvolvo habilidades em Angular, Node.js, API Rest, TypeScript e C#, para a construção de aplicações web robustas e escaláveis, do front-end ao back-end. Com entusiasmo, almejo uma oportunidade como Desenvolvedor Júnior/Estagiário, pronto para contribuir em projetos e crescer profissionalmente.
+Aspirante a Desenvolvedor Full Stack com crescente formação teórica e prática em Angular e C#. Concluí o curso Full Stack do SENAI e, paralelamente, finalizo a disciplina de Programação Orientada a Objetos na faculdade de Ciência da Computação, fortalecendo meu entendimento em princípios de software.
+    
+Possuo um set de habilidades versátil, ideal para o ciclo completo de desenvolvimento: Front-end (Angular, TypeScript, HTML, CSS/Flexbox) e Back-end (C#, Node.js, API Rest e MySQL/Server). Meu objetivo é ingressar como Desenvolvedor Júnior/Estagiário em uma empresa que valorize o crescimento e a aplicação dos fundamentos de desenvolvimento em projetos reais.
 </p>
 
 <div align="center">
